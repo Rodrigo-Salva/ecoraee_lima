@@ -1,0 +1,52 @@
+{
+  "reports": [
+    {
+      "id": "report-example-01",
+      "pointId": "surco-01",
+      "category": "Horario posiblemente desactualizado",
+      "description": "El horario mostrado podría no coincidir con la atención de los sábados. Reporte creado únicamente para demostrar el flujo administrativo.",
+      "createdAt": "2026-11-18T15:30:00.000Z",
+      "status": "pending",
+      "isExample": true
+    },
+    {
+      "id": "report-example-02",
+      "pointId": "sjl-01",
+      "category": "Residuo aceptado",
+      "description": "Se solicita revisar si el punto recibe baterías. Este contenido es un ejemplo del prototipo.",
+      "createdAt": "2026-11-20T11:00:00.000Z",
+      "status": "pending",
+      "isExample": true
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "suggestion-example-01",
+      "name": "Punto vecinal RAEE – Magdalena (ejemplo)",
+      "address": "Av. Brasil 3500, Magdalena del Mar",
+      "district": "Magdalena del Mar",
+      "lat": -12.0918,
+      "lng": -77.0707,
+      "acceptedWaste": ["phone", "laptop", "cables"],
+      "schedule": "Sábados de 9:00 a. m. a 1:00 p. m.",
+      "notes": "Sugerencia ficticia para demostrar la revisión administrativa.",
+      "createdAt": "2026-11-19T10:20:00.000Z",
+      "status": "pending",
+      "isExample": true
+    },
+    {
+      "id": "suggestion-example-02",
+      "name": "Ecoestación electrónica – Breña (ejemplo)",
+      "address": "Jr. Huaraz 1200, Breña",
+      "district": "Breña",
+      "lat": -12.0598,
+      "lng": -77.0521,
+      "acceptedWaste": ["computer", "printer", "smallAppliance"],
+      "schedule": "Lunes a viernes de 10:00 a. m. a 4:00 p. m.",
+      "notes": "Dato ficticio pendiente de evaluación.",
+      "createdAt": "2026-11-21T09:45:00.000Z",
+      "status": "pending",
+      "isExample": true
+    }
+  ]
+}

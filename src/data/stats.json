@@ -1,0 +1,15 @@
+{
+  "headline": [
+    {"value":"62 millones","label":"de toneladas de residuos electrónicos en el mundo en 2022","source":"UIT y UNITAR, 2024","url":"https://www.itu.int/en/ITU-D/Environment/Pages/Publications/The-Global-E-waste-Monitor-2024.aspx"},
+    {"value":"22,3 %","label":"fue reciclado formalmente en 2022","source":"UIT y UNITAR, 2024","url":"https://www.itu.int/en/ITU-D/Environment/Pages/Publications/The-Global-E-waste-Monitor-2024.aspx"},
+    {"value":"Más de 100 000 t","label":"de RAEE se generan al año en el Perú","source":"MINAM, 2025","url":"https://www.gob.pe/institucion/minam/noticias/1263803-minam-promueve-reciclaje-de-residuos-de-aparatos-electricos-y-electronicos"},
+    {"value":"157 puntos","label":"de recolección reportados a nivel nacional en junio de 2024","source":"MINAM","url":"https://www.gob.pe/institucion/minam/campa%C3%B1as/67738-campana-comunicacional-trae-tu-raee"}
+  ],
+  "nationalSeries": [
+    {"year":2020,"tonnes":5700,"approximate":true},
+    {"year":2021,"tonnes":11175,"approximate":false},
+    {"year":2022,"tonnes":14700,"approximate":true},
+    {"year":2023,"tonnes":20000,"approximate":true},
+    {"year":2024,"tonnes":25600,"approximate":true}
+  ]
+}
