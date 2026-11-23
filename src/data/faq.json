@@ -1,0 +1,9 @@
+[
+  {"question":"¿Qué significa RAEE?","answer":"Son residuos de aparatos eléctricos y electrónicos: equipos que dejaron de funcionar o que ya no utilizamos, como celulares, computadoras, televisores y cargadores."},
+  {"question":"¿Puedo botar un celular en la basura común?","answer":"No. Sus componentes requieren manejo especializado. Llévalo a un punto autorizado y retira antes la tarjeta SIM y tu información personal."},
+  {"question":"¿Debo desarmar el equipo antes de entregarlo?","answer":"No. Entrégalo completo y evita manipular baterías o componentes internos, especialmente si están dañados."},
+  {"question":"¿Qué hago con mis datos personales?","answer":"Haz una copia de seguridad, cierra tus sesiones, retira tarjetas de memoria y restablece el dispositivo a su configuración de fábrica cuando sea posible."},
+  {"question":"¿Todos los puntos reciben cualquier aparato?","answer":"No. Revisa los residuos aceptados, horarios y condiciones de cada punto antes de trasladarte."},
+  {"question":"¿EcoRAEE confirma que los puntos son oficiales?","answer":"No en este prototipo. Los puntos mostrados son datos de ejemplo; una versión real deberá validarlos con MINAM, municipalidades y operadores autorizados."},
+  {"question":"¿Qué pasa después de entregar un RAEE?","answer":"Un sistema formal puede clasificarlo, recuperar materiales aprovechables y gestionar de forma segura los componentes peligrosos."}
+]

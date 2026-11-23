@@ -1,0 +1,7 @@
+[
+  {"id":1,"question":"¿Dónde debe ir un celular que ya no funciona?","options":["En la basura común","En un punto de recolección RAEE","En el desagüe"],"correctIndex":1,"explanation":"Los RAEE deben entregarse en puntos que puedan gestionarlos de forma especializada."},
+  {"id":2,"question":"¿Qué conviene hacer antes de entregar una laptop?","options":["Borrar los datos personales","Romper la pantalla","Retirar todas las piezas"],"correctIndex":0,"explanation":"Protege tu información con una copia de seguridad y un borrado seguro; no desarmes el equipo."},
+  {"id":3,"question":"¿Qué sustancia puede estar presente en algunos RAEE?","options":["Solo agua","Plomo o mercurio","Únicamente papel"],"correctIndex":1,"explanation":"Algunos aparatos contienen sustancias peligrosas que exigen un manejo responsable."},
+  {"id":4,"question":"¿Qué propone la economía circular?","options":["Usar y desechar más rápido","Mantener materiales en uso y recuperar recursos","Guardar todos los equipos para siempre"],"correctIndex":1,"explanation":"Busca alargar la vida útil, reparar, reutilizar y recuperar materiales."},
+  {"id":5,"question":"¿Los puntos de este prototipo son puntos oficiales confirmados?","options":["Sí, todos","No, son datos de ejemplo","Solo los que tienen nombres genéricos"],"correctIndex":1,"explanation":"EcoRAEE muestra datos ficticios claramente señalados; la versión real requerirá validación oficial."}
+]

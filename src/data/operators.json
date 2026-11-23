@@ -1,0 +1,10 @@
+[
+  {"id":"operator-01","name":"Gestor Circular Lima Norte (ejemplo)","service":"Recolección y transporte RAEE","districts":["Los Olivos","Comas","Independencia"],"phone":"(01) 555-0101","email":"contacto1@ejemplo.pe","isExample":true},
+  {"id":"operator-02","name":"EcoGestión Lima Sur (ejemplo)","service":"Acopio de aparatos domésticos","districts":["Chorrillos","Villa El Salvador","Surco"],"phone":"(01) 555-0102","email":"contacto2@ejemplo.pe","isExample":true},
+  {"id":"operator-03","name":"Circuito Tecnológico Centro (ejemplo)","service":"Recolección programada","districts":["Lince","Jesús María","Cercado de Lima"],"phone":"(01) 555-0103","email":"contacto3@ejemplo.pe","isExample":true},
+  {"id":"operator-04","name":"RAEE Responsable Este (ejemplo)","service":"Transporte y orientación","districts":["Ate","La Molina","San Juan de Lurigancho"],"phone":"(01) 555-0104","email":"contacto4@ejemplo.pe","isExample":true},
+  {"id":"operator-05","name":"Costa Circular Metropolitana (ejemplo)","service":"Campañas temporales","districts":["Barranco","Miraflores","San Miguel"],"phone":"(01) 555-0105","email":"contacto5@ejemplo.pe","isExample":true},
+  {"id":"operator-06","name":"Recupera Equipos Perú (ejemplo)","service":"Acopio de equipos informáticos","districts":["San Isidro","San Borja","Surquillo"],"phone":"(01) 555-0106","email":"contacto6@ejemplo.pe","isExample":true},
+  {"id":"operator-07","name":"Red Vecinal RAEE (ejemplo)","service":"Recolección comunitaria","districts":["Rímac","Breña","Pueblo Libre"],"phone":"(01) 555-0107","email":"contacto7@ejemplo.pe","isExample":true},
+  {"id":"operator-08","name":"Gestión Electrónica Callao (ejemplo)","service":"Acopio y transporte","districts":["Callao","La Perla","Bellavista"],"phone":"(01) 555-0108","email":"contacto8@ejemplo.pe","isExample":true}
+]
