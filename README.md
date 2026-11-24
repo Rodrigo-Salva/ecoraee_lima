@@ -1,4 +1,4 @@
-# EcoRAEE Lima
+# EcoRAEE Lima - APP WEB
 
 MVP front-end académico para ayudar a la ciudadanía de Lima Metropolitana a identificar residuos de aparatos eléctricos y electrónicos (RAEE), encontrar puntos de entrega y registrar entregas demostrativas. El proyecto corresponde al curso **Sociedad y Desarrollo Sostenible** de TECSUP y se relaciona con el ODS 12.
 
